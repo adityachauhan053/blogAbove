@@ -1,0 +1,8 @@
+<?php
+
+ "ClientClient ID	
+665319011414-o19tpmbt1bmt847dlohgmln8r0pcvi98.apps.googleusercontent.com
+Client secret	
+D_Q9dIUshSaaOW30kqbrbndO
+Creation date	
+29 Oct 2016, 13:32:51
